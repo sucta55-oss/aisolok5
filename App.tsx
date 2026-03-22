@@ -590,7 +590,7 @@ export default function App() {
               </div>
               
               <div className="space-y-4">
-                <h3 className="text-2xl md:text-4xl font-black text-apple-black uppercase">Mr. Tạ Sức</h3>
+                <h3 className="text-2xl md:text-4xl font-black text-apple-black uppercase">Mrs. Tạ Sức</h3>
                 <p className="text-apple-dark-gray font-bold text-lg md:text-2xl leading-relaxed tracking-tight">
                   "Xin chào, tôi là Tạ Sức - <span className="text-apple-blue">Người Bạn Đồng Hành</span> mới của bạn. Tôi sẽ trực tiếp hỗ trợ, giải đáp thắc mắc và đồng hành cùng bạn cho đến khi bạn thực sự làm chủ được công nghệ AI trong suốt chương trình này."
                 </p>
